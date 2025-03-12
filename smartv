@@ -1,14 +1,16 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-logo="" tvg-logo="https://clipground.com/images/philippines-flag-free-clipart-11.png",A2Z
 http://ott.udptv.net:80/stream/iptv/a2z/master.m3u8?u=civ3&p=673b29c3c96ef6b81971b748cdf0e46d531b3c6690c885706e02b469ba8b14ca
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-logo="https://clipground.com/images/philippines-flag-free-clipart-11.png",ALIW TV
-http://ott.udptv.net:80/stream/iptv/aliwtv/master.m3u8?u=civ3&p=673b29c3c96ef6b81971b748cdf0e46d531b3c6690c885706e02b469ba8b14ca
 #EXTINF:-1 tvg-id="" tvg-logo="" tvg-logo="https://clipground.com/images/philippines-flag-free-clipart-11.png",ALLTV
 http://ott.udptv.net:80/stream/iptv/alltv/master.m3u8?u=civ3&p=673b29c3c96ef6b81971b748cdf0e46d531b3c6690c885706e02b469ba8b14ca
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-logo="https://clipground.com/images/philippines-flag-free-clipart-11.png",KAPAMILYA
+http://ott.udptv.net:80/stream/iptv/kapamilyachannel/master.m3u8?u=civ3&p=673b29c3c96ef6b81971b748cdf0e46d531b3c6690c885706e02b469ba8b14ca
 #EXTINF:-1 tvg-id="" tvg-logo="" tvg-logo="https://clipground.com/images/philippines-flag-free-clipart-11.png",GMA7
 http://ott.udptv.net:80/stream/iptv/gma/master.m3u8?u=civ3&p=673b29c3c96ef6b81971b748cdf0e46d531b3c6690c885706e02b469ba8b14ca
 #EXTINF:-1 tvg-id="" tvg-logo="" tvg-logo="https://clipground.com/images/philippines-flag-free-clipart-11.png",GTV
 http://ott.udptv.net:80/stream/iptv/gtv/master.m3u8?u=civ3&p=673b29c3c96ef6b81971b748cdf0e46d531b3c6690c885706e02b469ba8b14ca
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-logo="https://clipground.com/images/philippines-flag-free-clipart-11.png",TV5
+http://ott.udptv.net:80/stream/iptv/tv5hd/master.m3u8?u=civ3&p=673b29c3c96ef6b81971b748cdf0e46d531b3c6690c885706e02b469ba8b14ca
 #EXTINF:-1 tvg-id="" tvg-logo="" tvg-logo="https://clipground.com/images/philippines-flag-free-clipart-11.png",CELESTIAL PINOY MOVIES
 http://ott.udptv.net:80/stream/iptv/celestialmoviespinoy/master.m3u8?u=civ3&p=673b29c3c96ef6b81971b748cdf0e46d531b3c6690c885706e02b469ba8b14ca
 #EXTINF:-1 tvg-id="" tvg-logo="" tvg-logo="https://clipground.com/images/philippines-flag-free-clipart-11.png",ANC
@@ -24,8 +26,6 @@ http://ott.udptv.net:80/stream/iptv/arirang/master.m3u8?u=civ3&p=673b29c3c96ef6b
 http://ott.udptv.net:80/stream/iptv/cartoonnetwork/master.m3u8?u=civ3&p=673b29c3c96ef6b81971b748cdf0e46d531b3c6690c885706e02b469ba8b14ca
 #EXTINF:-1 tvg-id="" tvg-logo="" tvg-logo="https://clipground.com/images/philippines-flag-free-clipart-11.png",WARNER TV
 http://ott.udptv.net:80/stream/iptv/warnertv/master.m3u8?u=civ3&p=673b29c3c96ef6b81971b748cdf0e46d531b3c6690c885706e02b469ba8b14ca
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-logo="https://clipground.com/images/philippines-flag-free-clipart-11.png",FAMILY CINEMA
-http://ott.udptv.net:80/stream/iptv/familycinema/master.m3u8?u=civ3&p=673b29c3c96ef6b81971b748cdf0e46d531b3c6690c885706e02b469ba8b14ca
 #EXTINF:-1 tvg-id="" tvg-logo="" tvg-logo="https://clipground.com/images/philippines-flag-free-clipart-11.png",DZRH TV
 http://ott.udptv.net:80/stream/iptv/dzrhtv/master.m3u8?u=civ3&p=673b29c3c96ef6b81971b748cdf0e46d531b3c6690c885706e02b469ba8b14ca
 #EXTINF:-1 tvg-id="" tvg-logo="" tvg-logo="https://clipground.com/images/philippines-flag-free-clipart-11.png",DREAMWORK TAGALIZE
@@ -38,8 +38,6 @@ http://ott.udptv.net:80/stream/iptv/disneyjr/master.m3u8?u=civ3&p=673b29c3c96ef6
 http://ott.udptv.net:80/stream/iptv/disneychannel/master.m3u8?u=civ3&p=673b29c3c96ef6b81971b748cdf0e46d531b3c6690c885706e02b469ba8b14ca
 #EXTINF:-1 tvg-id="" tvg-logo="" tvg-logo="https://clipground.com/images/philippines-flag-free-clipart-11.png",CNN
 http://ott.udptv.net:80/stream/iptv/cnn/master.m3u8?u=civ3&p=673b29c3c96ef6b81971b748cdf0e46d531b3c6690c885706e02b469ba8b14ca
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-logo="https://clipground.com/images/philippines-flag-free-clipart-11.png",CLTV 36
-http://ott.udptv.net:80/stream/iptv/cltv36/master.m3u8?u=civ3&p=673b29c3c96ef6b81971b748cdf0e46d531b3c6690c885706e02b469ba8b14ca
 #EXTINF:-1 tvg-id="" tvg-logo="" tvg-logo="https://clipground.com/images/philippines-flag-free-clipart-11.png",CINEMO PH
 http://ott.udptv.net:80/stream/iptv/cinemoph/master.m3u8?u=civ3&p=673b29c3c96ef6b81971b748cdf0e46d531b3c6690c885706e02b469ba8b14ca
 #EXTINF:-1 tvg-id="" tvg-logo="" tvg-logo="https://clipground.com/images/philippines-flag-free-clipart-11.png",CINEMO GLOBAL
@@ -54,6 +52,8 @@ http://ott.udptv.net:80/stream/iptv/gmalifetv/master.m3u8?u=civ3&p=673b29c3c96ef
 http://ott.udptv.net:80/stream/iptv/gmanewstv/master.m3u8?u=civ3&p=673b29c3c96ef6b81971b748cdf0e46d531b3c6690c885706e02b469ba8b14ca
 #EXTINF:-1 tvg-id="" tvg-logo="" tvg-logo="https://clipground.com/images/philippines-flag-free-clipart-11.png",GMA PINOY TV
 http://ott.udptv.net:80/stream/iptv/gmapinoytv/master.m3u8?u=civ3&p=673b29c3c96ef6b81971b748cdf0e46d531b3c6690c885706e02b469ba8b14ca
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-logo="https://clipground.com/images/philippines-flag-free-clipart-11.png",HBO HD
+http://ott.udptv.net:80/stream/iptv/hbohd/master.m3u8?u=civ3&p=673b29c3c96ef6b81971b748cdf0e46d531b3c6690c885706e02b469ba8b14ca
 #EXTINF:-1 tvg-id="" tvg-logo="" tvg-logo="https://clipground.com/images/philippines-flag-free-clipart-11.png",HBO FAMILY
 http://ott.udptv.net:80/stream/iptv/hbofamily/master.m3u8?u=civ3&p=673b29c3c96ef6b81971b748cdf0e46d531b3c6690c885706e02b469ba8b14ca
 #EXTINF:-1 tvg-id="" tvg-logo="" tvg-logo="https://clipground.com/images/philippines-flag-free-clipart-11.png",HBO HITS
@@ -68,8 +68,6 @@ http://ott.udptv.net:80/stream/iptv/untv/master.m3u8?u=civ3&p=673b29c3c96ef6b819
 http://ott.udptv.net:80/stream/iptv/tvnmoviespinoy/master.m3u8?u=civ3&p=673b29c3c96ef6b81971b748cdf0e46d531b3c6690c885706e02b469ba8b14ca
 #EXTINF:-1 tvg-id="" tvg-logo="" tvg-logo="https://clipground.com/images/philippines-flag-free-clipart-11.png",TVN
 http://ott.udptv.net:80/stream/iptv/tvn/master.m3u8?u=civ3&p=673b29c3c96ef6b81971b748cdf0e46d531b3c6690c885706e02b469ba8b14ca
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-logo="https://clipground.com/images/philippines-flag-free-clipart-11.png",TV5
-http://ott.udptv.net:80/stream/iptv/tv5hd/master.m3u8?u=civ3&p=673b29c3c96ef6b81971b748cdf0e46d531b3c6690c885706e02b469ba8b14ca
 #EXTINF:-1 tvg-id="" tvg-logo="" tvg-logo="https://clipground.com/images/philippines-flag-free-clipart-11.png",TMC
 http://ott.udptv.net:80/stream/iptv/tmc/master.m3u8?u=civ3&p=673b29c3c96ef6b81971b748cdf0e46d531b3c6690c885706e02b469ba8b14ca
 #EXTINF:-1 tvg-id="" tvg-logo="" tvg-logo="https://clipground.com/images/philippines-flag-free-clipart-11.png",THRILL
@@ -96,8 +94,6 @@ http://ott.udptv.net:80/stream/iptv/screamflix/master.m3u8?u=civ3&p=673b29c3c96e
 http://ott.udptv.net:80/stream/iptv/sarisari/master.m3u8?u=civ3&p=673b29c3c96ef6b81971b748cdf0e46d531b3c6690c885706e02b469ba8b14ca
 #EXTINF:-1 tvg-id="" tvg-logo="" tvg-logo="https://clipground.com/images/philippines-flag-free-clipart-11.png",RPTV
 http://ott.udptv.net:80/stream/iptv/rptv/master.m3u8?u=civ3&p=673b29c3c96ef6b81971b748cdf0e46d531b3c6690c885706e02b469ba8b14ca
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-logo="https://clipground.com/images/philippines-flag-free-clipart-11.png",ROCK INTERTAINMENT
-http://ott.udptv.net:80/stream/iptv/rockentertainment/master.m3u8?u=civ3&p=673b29c3c96ef6b81971b748cdf0e46d531b3c6690c885706e02b469ba8b14ca
 #EXTINF:-1 tvg-id="" tvg-logo="" tvg-logo="https://clipground.com/images/philippines-flag-free-clipart-11.png",ROCK ACTION
 http://ott.udptv.net:80/stream/iptv/rockaction/master.m3u8?u=civ3&p=673b29c3c96ef6b81971b748cdf0e46d531b3c6690c885706e02b469ba8b14ca
 #EXTINF:-1 tvg-id="" tvg-logo="" tvg-logo="https://clipground.com/images/philippines-flag-free-clipart-11.png",PTV
@@ -124,8 +120,6 @@ http://ott.udptv.net:80/stream/iptv/myxph/master.m3u8?u=civ3&p=673b29c3c96ef6b81
 http://ott.udptv.net:80/stream/iptv/myxglobal-1/master.m3u8?u=civ3&p=673b29c3c96ef6b81971b748cdf0e46d531b3c6690c885706e02b469ba8b14ca
 #EXTINF:-1 tvg-id="" tvg-logo="" tvg-logo="https://clipground.com/images/philippines-flag-free-clipart-11.png",MTV LIVE PH
 http://ott.udptv.net:80/stream/iptv/mtvliveph/master.m3u8?u=civ3&p=673b29c3c96ef6b81971b748cdf0e46d531b3c6690c885706e02b469ba8b14ca
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-logo="https://clipground.com/images/philippines-flag-free-clipart-11.png",HBO HD
-http://ott.udptv.net:80/stream/iptv/hbohd/master.m3u8?u=civ3&p=673b29c3c96ef6b81971b748cdf0e46d531b3c6690c885706e02b469ba8b14ca
 #EXTINF:-1 tvg-id="" tvg-logo="" tvg-logo="https://clipground.com/images/philippines-flag-free-clipart-11.png",METRO CHANNEL
 http://ott.udptv.net:80/stream/iptv/metrochannel/master.m3u8?u=civ3&p=673b29c3c96ef6b81971b748cdf0e46d531b3c6690c885706e02b469ba8b14ca
 #EXTINF:-1 tvg-id="" tvg-logo="" tvg-logo="https://clipground.com/images/philippines-flag-free-clipart-11.png",LOTUS MACAU
@@ -134,8 +128,6 @@ http://ott.udptv.net:80/stream/iptv/lotusmacau/master.m3u8?u=civ3&p=673b29c3c96e
 http://ott.udptv.net:80/stream/iptv/mtv90s/master.m3u8?u=civ3&p=673b29c3c96ef6b81971b748cdf0e46d531b3c6690c885706e02b469ba8b14ca
 #EXTINF:-1 tvg-id="" tvg-logo="" tvg-logo="https://clipground.com/images/philippines-flag-free-clipart-11.png",MPTV
 http://ott.udptv.net:80/stream/iptv/mptv/master.m3u8?u=civ3&p=673b29c3c96ef6b81971b748cdf0e46d531b3c6690c885706e02b469ba8b14ca
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-logo="https://clipground.com/images/philippines-flag-free-clipart-11.png",MPBL
-http://ott.udptv.net:80/stream/iptv/mpbl/master.m3u8?u=civ3&p=673b29c3c96ef6b81971b748cdf0e46d531b3c6690c885706e02b469ba8b14ca
 #EXTINF:-1 tvg-id="" tvg-logo="" tvg-logo="https://clipground.com/images/philippines-flag-free-clipart-11.png",MYX GLOBAL
 http://ott.udptv.net:80/stream/iptv/myxglobal-1/master.m3u8?u=civ3&p=673b29c3c96ef6b81971b748cdf0e46d531b3c6690c885706e02b469ba8b14ca
 #EXTINF:-1 tvg-id="" tvg-logo="" tvg-logo="https://clipground.com/images/philippines-flag-free-clipart-11.png",MYX PH
@@ -156,8 +148,6 @@ http://ott.udptv.net:80/stream/iptv/knowledgechannel/master.m3u8?u=civ3&p=673b29
 http://ott.udptv.net:80/stream/iptv/kix/master.m3u8?u=civ3&p=673b29c3c96ef6b81971b748cdf0e46d531b3c6690c885706e02b469ba8b14ca
 #EXTINF:-1 tvg-id="" tvg-logo="" tvg-logo="https://clipground.com/images/philippines-flag-free-clipart-11.png",KBS WORLD
 http://ott.udptv.net:80/stream/iptv/kbsworld/master.m3u8?u=civ3&p=673b29c3c96ef6b81971b748cdf0e46d531b3c6690c885706e02b469ba8b14ca
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-logo="https://clipground.com/images/philippines-flag-free-clipart-11.png",KAPAMILYA
-http://ott.udptv.net:80/stream/iptv/kapamilyachannel/master.m3u8?u=civ3&p=673b29c3c96ef6b81971b748cdf0e46d531b3c6690c885706e02b469ba8b14ca
 #EXTINF:-1 tvg-id="" tvg-logo="" tvg-logo="https://clipground.com/images/philippines-flag-free-clipart-11.png",JUGO PINOY TV
 http://ott.udptv.net:80/stream/iptv/jugopinoytv/master.m3u8?u=civ3&p=673b29c3c96ef6b81971b748cdf0e46d531b3c6690c885706e02b469ba8b14ca
 #EXTINF:-1 tvg-id="" tvg-logo="" tvg-logo="https://clipground.com/images/philippines-flag-free-clipart-11.png",NBA TV PH
