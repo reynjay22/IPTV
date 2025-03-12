@@ -19,8 +19,6 @@ http://ott.udptv.net:80/stream/iptv/knowledgechannel/master.m3u8?u=civ3&p=673b29
 http://ott.udptv.net:80/stream/iptv/jeepneytv/master.m3u8?u=civ3&p=673b29c3c96ef6b81971b748cdf0e46d531b3c6690c885706e02b469ba8b14ca
 #EXTINF:-1 tvg-id="" tvg-logo="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Animax_logo.svg/2560px-Animax_logo.svg.png",ANIMAX
 http://ott.udptv.net:80/stream/iptv/animax/master.m3u8?u=civ3&p=673b29c3c96ef6b81971b748cdf0e46d531b3c6690c885706e02b469ba8b14ca
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-logo="https://clipground.com/images/philippines-flag-free-clipart-11.png",ANIMEXHIDIVE
-http://ott.udptv.net:80/stream/iptv/animexhidive/master.m3u8?u=civ3&p=673b29c3c96ef6b81971b748cdf0e46d531b3c6690c885706e02b469ba8b14ca
 #EXTINF:-1 tvg-id="" tvg-logo="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/CARTOON_NETWORK_logo.png",CARTOON NETWORK
 http://ott.udptv.net:80/stream/iptv/cartoonnetwork/master.m3u8?u=civ3&p=673b29c3c96ef6b81971b748cdf0e46d531b3c6690c885706e02b469ba8b14ca
 #EXTINF:-1 tvg-id="" tvg-logo="" tvg-logo="https://logos-world.net/wp-content/uploads/2020/12/DreamWorks-Animation-Logo.png",DREAMWORK TAGALIZE
@@ -77,6 +75,8 @@ http://ott.udptv.net:80/stream/iptv/tapactionflix/master.m3u8?u=civ3&p=673b29c3c
 http://ott.udptv.net:80/stream/iptv/screamflix/master.m3u8?u=civ3&p=673b29c3c96ef6b81971b748cdf0e46d531b3c6690c885706e02b469ba8b14ca
 #EXTINF:-1 tvg-id="" tvg-logo="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Rock_Action.png",ROCK ACTION
 http://ott.udptv.net:80/stream/iptv/rockaction/master.m3u8?u=civ3&p=673b29c3c96ef6b81971b748cdf0e46d531b3c6690c885706e02b469ba8b14ca
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-logo="https://medianet.mv/media/channel/229x0-icon.png",HITS
+http://ott.udptv.net:80/stream/iptv/hits/master.m3u8?u=civ3&p=673b29c3c96ef6b81971b748cdf0e46d531b3c6690c885706e02b469ba8b14ca
 #EXTINF:-1 tvg-id="" tvg-logo="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cd/PBA_Rush_logo.png/220px-PBA_Rush_logo.png",PBA RUSH
 http://ott.udptv.net:80/stream/iptv/pbarush/master.m3u8?u=civ3&p=673b29c3c96ef6b81971b748cdf0e46d531b3c6690c885706e02b469ba8b14ca
 #EXTINF:-1 tvg-id="" tvg-logo="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/archive/d/de/20200728010847%21NBA_TV_Philippines.png",NBA TV PH
@@ -99,10 +99,6 @@ http://ott.udptv.net:80/stream/iptv/mtvliveph/master.m3u8?u=civ3&p=673b29c3c96ef
 http://ott.udptv.net:80/stream/iptv/mtv90s/master.m3u8?u=civ3&p=673b29c3c96ef6b81971b748cdf0e46d531b3c6690c885706e02b469ba8b14ca
 #EXTINF:-1 tvg-id="" tvg-logo="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Metro_Channel_logo.png/800px-Metro_Channel_logo.png",METRO CHANNEL
 http://ott.udptv.net:80/stream/iptv/metrochannel/master.m3u8?u=civ3&p=673b29c3c96ef6b81971b748cdf0e46d531b3c6690c885706e02b469ba8b14ca
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-logo="https://clipground.com/images/philippines-flag-free-clipart-11.png",MPTV
-http://ott.udptv.net:80/stream/iptv/mptv/master.m3u8?u=civ3&p=673b29c3c96ef6b81971b748cdf0e46d531b3c6690c885706e02b469ba8b14ca
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-logo="https://clipground.com/images/philippines-flag-free-clipart-11.png",MYX GLOBAL
-http://ott.udptv.net:80/stream/iptv/myxglobal-1/master.m3u8?u=civ3&p=673b29c3c96ef6b81971b748cdf0e46d531b3c6690c885706e02b469ba8b14ca
 #EXTINF:-1 tvg-id="" tvg-logo="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/GMA_Life_TV_logo.png/1008px-GMA_Life_TV_logo.png",GMA LIFE TV
 http://ott.udptv.net:80/stream/iptv/gmalifetv/master.m3u8?u=civ3&p=673b29c3c96ef6b81971b748cdf0e46d531b3c6690c885706e02b469ba8b14ca
 #EXTINF:-1 tvg-id="" tvg-logo="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/GMA_News_TV_Logo_Vector.svg/1920px-GMA_News_TV_Logo_Vector.svg.png",GMA NEWS TV
@@ -119,8 +115,6 @@ http://ott.udptv.net:80/stream/iptv/ancph/master.m3u8?u=civ3&p=673b29c3c96ef6b81
 http://ott.udptv.net:80/stream/iptv/teleradyoserbisyo/master.m3u8?u=civ3&p=673b29c3c96ef6b81971b748cdf0e46d531b3c6690c885706e02b469ba8b14ca
 #EXTINF:-1 tvg-id="" tvg-logo="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4f/IBC_13_Logo_2011.svg/1200px-IBC_13_Logo_2011.svg.png",IBC 13
 http://ott.udptv.net:80/stream/iptv/ibc13/master.m3u8?u=civ3&p=673b29c3c96ef6b81971b748cdf0e46d531b3c6690c885706e02b469ba8b14ca
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-logo="https://medianet.mv/media/channel/229x0-icon.png",HITS
-http://ott.udptv.net:80/stream/iptv/hits/master.m3u8?u=civ3&p=673b29c3c96ef6b81971b748cdf0e46d531b3c6690c885706e02b469ba8b14ca
 #EXTINF:-1 tvg-id="" tvg-logo="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1952px-History_Logo.svg.png",HISTORY
 http://ott.udptv.net:80/stream/iptv/history/master.m3u8?u=civ3&p=673b29c3c96ef6b81971b748cdf0e46d531b3c6690c885706e02b469ba8b14ca
 #EXTINF:-1 tvg-id="" tvg-logo="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/1200px-NHK_World.svg.png",NHK WORLD JP
@@ -133,7 +127,7 @@ http://ott.udptv.net:80/stream/iptv/arirang/master.m3u8?u=civ3&p=673b29c3c96ef6b
 http://ott.udptv.net:80/stream/iptv/kix/master.m3u8?u=civ3&p=673b29c3c96ef6b81971b748cdf0e46d531b3c6690c885706e02b469ba8b14ca
 #EXTINF:-1 tvg-id="" tvg-logo="" tvg-logo="https://download.logo.wine/logo/CNN/CNN-Logo.wine.png",CNN
 http://ott.udptv.net:80/stream/iptv/cnn/master.m3u8?u=civ3&p=673b29c3c96ef6b81971b748cdf0e46d531b3c6690c885706e02b469ba8b14ca
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-logo="https://clipground.com/images/philippines-flag-free-clipart-11.png",KBS WORLD
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_%282009%29.svg/1200px-KBS_World_%282009%29.svg.png",KBS WORLD
 http://ott.udptv.net:80/stream/iptv/kbsworld/master.m3u8?u=civ3&p=673b29c3c96ef6b81971b748cdf0e46d531b3c6690c885706e02b469ba8b14ca
 #EXTINF:-1 tvg-id="" tvg-logo="" tvg-logo="https://static.wikia.nocookie.net/tv5network/images/d/d4/SMNI.png",SMNI
 http://ott.udptv.net:80/stream/iptv/smni/master.m3u8?u=civ3&p=673b29c3c96ef6b81971b748cdf0e46d531b3c6690c885706e02b469ba8b14ca
