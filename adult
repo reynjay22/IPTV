@@ -1,9 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Live Cams" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",Hot threesome!
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://cdn77-vid.xvideos-cdn.com/AEBxlAKlg6RhIRVGNhd-uQ==,1747656805/videos/hls/cd/9b/ea/cd9bea3f7b5d4ab88974849b7d310594/hls.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Live Cams" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",Live Cams
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 http://live.adultiptv.net/livecams.m3u8
