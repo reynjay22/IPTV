@@ -337,7 +337,7 @@ https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cnn_rptv_prod_hd.mpd
 https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_sari_sari_sd.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.greyboxcreative.com/wp-content/uploads/2020/01/National-Geographic-logo.jpg" group-title="",National Geographic
-#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.manifest_type=dashX
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6d647aff767c453daa5fb54a44c783c6:2f971e6a1cc58e7085afc761a3f13162
 https://tr.live.cdn.cgates.lt/live/dash/561901/index.mpd
