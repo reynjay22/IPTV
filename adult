@@ -8,11 +8,7 @@ http://filex.tv:8080/joeline612/FdVyzGCD7y/291731
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 http://filex.tv:8080/joeline612/FdVyzGCD7y/291729
 
-#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Live Cams" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",BANG BROS +1
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-http://filex.tv:8080/joeline612/FdVyzGCD7y/291736
-
-#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Live Cams" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",BANG BROS +2
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Live Cams" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",BANG BROS
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 http://filex.tv:8080/joeline612/FdVyzGCD7y/291738
 
