@@ -1,5 +1,21 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Live Cams" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",HINDI ADULT_01
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+http://filex.tv:8080/joeline612/FdVyzGCD7y/523568
+
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Live Cams" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",HINDI ADULT_02
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+http://filex.tv:8080/joeline612/FdVyzGCD7y/523571
+
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Live Cams" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",HINDI ADULT_03
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+http://filex.tv:8080/joeline612/FdVyzGCD7y/523572
+
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Live Cams" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",HINDI ADULT_04
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+http://filex.tv:8080/joeline612/FdVyzGCD7y/523577
+
 #EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Live Cams" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",Live Cams
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 http://live.adultiptv.net/livecams.m3u8
