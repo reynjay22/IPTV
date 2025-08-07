@@ -1,5 +1,41 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Live Cams" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",JAPAN ADULT_01
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+http://filex.tv:8080/joeline612/FdVyzGCD7y/457015
+
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Live Cams" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",JAPAN ADULT_02
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+http://filex.tv:8080/joeline612/FdVyzGCD7y/457016
+
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Live Cams" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",JAPAN ADULT_03
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+http://filex.tv:8080/joeline612/FdVyzGCD7y/457017
+
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Live Cams" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",JAPAN ADULT_04
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+http://filex.tv:8080/joeline612/FdVyzGCD7y/457022
+
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Live Cams" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",JAPAN ADULT_05
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+http://filex.tv:8080/joeline612/FdVyzGCD7y/457026
+
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Live Cams" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",JAPAN ADULT_06
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+http://filex.tv:8080/joeline612/FdVyzGCD7y/457028
+
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Live Cams" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",JAPAN ADULT_07
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+http://filex.tv:8080/joeline612/FdVyzGCD7y/457030
+
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Live Cams" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",JAPAN ADULT_08
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+http://filex.tv:8080/joeline612/FdVyzGCD7y/457030
+
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Live Cams" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",JAPAN ADULT_09
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+http://filex.tv:8080/joeline612/FdVyzGCD7y/457030
+
 #EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Live Cams" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",HINDI ADULT_01
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 http://filex.tv:8080/joeline612/FdVyzGCD7y/523568
