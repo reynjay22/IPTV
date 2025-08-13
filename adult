@@ -12,6 +12,14 @@ http://158.178.234.173/hls/fil1/playlist.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 http://158.178.234.173/hls/fil2/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",TrikePatrol
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+http://158.178.234.173/hls/fil3/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",Hairy Bush Pinay
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+http://158.178.234.173/hls/fil5/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Live Cams" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",Live Cams
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 http://live.adultiptv.net/livecams.m3u8
