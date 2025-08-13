@@ -1,8 +1,16 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Live Cams" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",Redhead Bitch
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",Redhead Bitch
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 http://158.178.234.173/hls/redasian/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",Filipina Tries Huge
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+http://158.178.234.173/hls/fil1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",Big Tit Pinay
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+http://158.178.234.173/hls/fil2/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Live Cams" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",Live Cams
 #KODIPROP:inputstream.adaptive.manifest_type=hls
