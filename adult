@@ -20,6 +20,18 @@ http://158.178.234.173/hls/fil3/playlist.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 http://158.178.234.173/hls/fil5/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",AsianSexDiary Pinay
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+http://158.178.234.173/hls/fil6/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",Petite Asian
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+http://158.178.234.173/hls/fil7/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",Pussy Pinay
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+http://158.178.234.173/hls/fil8/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Live Cams" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",Live Cams
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 http://live.adultiptv.net/livecams.m3u8
