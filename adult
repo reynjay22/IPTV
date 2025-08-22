@@ -1,5 +1,9 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",Tiny Latina
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+http://158.178.234.173:5000/hls/1755816331141_876ab2eeb4de74a36f7adafd1cd7a6ff_1755816351714/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="AdultIPTV" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",Redhead Bitch
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 http://158.178.234.173/hls/redasian/playlist.m3u8
