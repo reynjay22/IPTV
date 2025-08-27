@@ -8,15 +8,15 @@ https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/cg_pbarush_hd1.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/de/NBA_TV_Philippines.png" group-title="",NBATV Philippines
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=c5e51f41ceac48709d0bdcd9c13a4d88:20b91609967e472c27040716ef6a8b9a
-https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/cgnl_nba.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+http://136.239.159.18:6610/001/2/ch00000090990000001064//manifest.mpd?JITPDRMType=Widevine&RateHigh=25600000&IASHttpSessionId=OTT177602420250821081657000356&%5CAuthInfo=d85e93&JITPMediaType=DASH&virtualDomain=001.live_hls.zte.com
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c9/ALLTV_Logo_2022.svg/2560px-ALLTV_Logo_2022.svg.png" group-title="",ALL TV
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
-http://143.44.136.110:6910/001/2/ch00000090990000001179/manifest.mpd?virtualDomain=001.live_hls.zte.com
+http://136.239.159.18:6610/001/2/ch00000090990000001179//manifest.mpd?JITPDRMType=Widevine&RateHigh=25600000&IASHttpSessionId=OTT177601920250821084546000400&%5CAuthInfo=d85e93&JITPMediaType=DASH&virtualDomain=001.live_hls.zte.com
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Kapamilya_Channel_Logo_2020.svg/1200px-Kapamilya_Channel_Logo_2020.svg.png" group-title="",Kapamilya Channel
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -40,7 +40,7 @@ http://136.239.159.18:6610/001/2/ch00000090990000001093//manifest.mpd?JITPDRMTyp
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
-http://143.44.136.110:6910/001/2/ch00000090990000001143/manifest.mpd?virtualDomain=001.live_hls.zte.com
+http://136.239.159.18:6610/001/2/ch00000090990000001143//manifest.mpd?JITPDRMType=Widevine&RateHigh=25600000&IASHttpSessionId=OTT177595120250821080041000367&%5CAuthInfo=d85e93&JITPMediaType=DASH&virtualDomain=001.live_hls.zte.com
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/dxs/images/9/99/TV5_HD_Logo_2023.png" group-title="",TV5
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -52,7 +52,7 @@ https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/tv5_hd.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
-http://143.44.136.113:6910/001/2/ch00000090990000001250/manifest.mpd?virtualDomain=001.live_hls.zte.com
+http://136.239.159.18:6610/001/2/ch00000090990000001250//manifest.mpd?JITPDRMType=Widevine&RateHigh=25600000&IASHttpSessionId=OTT177589020250821081324000451&%5CAuthInfo=d85e93&JITPMediaType=DASH&virtualDomain=001.live_hls.zte.com
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Myxphlogo.svg/1280px-Myxphlogo.svg.png" group-title="",Myx
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -70,7 +70,7 @@ https://d1bail49udbz1k.cloudfront.net/out/v1/3a895f368f4a467c9bca0962559efc19/in
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
-http://143.44.136.110:6910/001/2/ch00000090990000001254/manifest.mpd?virtualDomain=001.live_hls.zte.com
+http://136.239.159.18:6610/001/2/ch00000090990000001254//manifest.mpd?JITPDRMType=Widevine&RateHigh=25600000&IASHttpSessionId=OTT177593820250821082709000327&%5CAuthInfo=d85e93&JITPMediaType=DASH&virtualDomain=001.live_hls.zte.com
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/Cinema_One_2013_logo.svg/800px-Cinema_One_2013_logo.svg.png" group-title="",Cinema One Global
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -82,7 +82,7 @@ https://d9rpesrrg1bdi.cloudfront.net/out/v1/93b9db7b231d45f28f64f29b86dc6c65/ind
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
-http://143.44.136.110:6910/001/2/ch00000090990000001283/manifest.mpd?virtualDomain=001.live_hls.zte.com
+http://136.239.159.18:6610/001/2/ch00000090990000001283//manifest.mpd?JITPDRMType=Widevine&RateHigh=25600000&IASHttpSessionId=OTT177600020250821080535000383&%5CAuthInfo=d85e93&JITPMediaType=DASH&virtualDomain=001.live_hls.zte.com
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Pinoy_Box_Office_logo.svg/1200px-Pinoy_Box_Office_logo.svg.png" group-title="",PBO
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -100,7 +100,7 @@ https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/viva_sd.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
-http://143.44.136.113:6910/001/2/ch00000090990000001077/manifest.mpd?virtualDomain=001.live_hls.zte.com
+http://136.239.159.18:6610/001/2/ch00000090990000001077//manifest.mpd?JITPDRMType=Widevine&RateHigh=25600000&IASHttpSessionId=OTT177592720250821082856000377&%5CAuthInfo=d85e93&JITPMediaType=DASH&virtualDomain=001.live_hls.zte.com
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/6mNCite.png" group-title="",Tagalized Movie Channel
 #KODIPROP:inputstream.adaptive.manifest_type=dash
