@@ -22,7 +22,7 @@ http://143.44.136.110:6910/001/2/ch00000090990000001179/manifest.mpd?virtualDoma
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
-http://143.44.136.110:6910/001/2/ch00000090990000001286/manifest.mpd?virtualDomain=001.live_hls.zte.com
+http://136.239.159.18:6610/001/2/ch00000090990000001286//manifest.mpd?JITPDRMType=Widevine&RateHigh=25600000&IASHttpSessionId=OTT177592620250821080159000370&%5CAuthInfo=d85e93&JITPMediaType=DASH&virtualDomain=001.live_hls.zte.com
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i0.wp.com/starmometer.com/wp-content/uploads/2011/04/TFC.jpg" group-title="",TFC
 #KODIPROP:inputstream.adaptive.manifest_type=dash
