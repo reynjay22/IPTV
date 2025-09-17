@@ -45,7 +45,7 @@ http://136.239.159.18:6610/001/2/ch00000090990000001143//manifest.mpd?JITPDRMTyp
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/dxs/images/9/99/TV5_HD_Logo_2023.png" group-title="",TV5
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=0f853706412b11edb8780242ac120002:2157d6529d80a760f60a8b5350dbc4df
+#KODIPROP:inputstream.adaptive.license_key=07c7f996b1734ea288641a68e1cfdc4d:2615129ef2c846a9bbd43a641c7303ef
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/tv5_hd/default1/index.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/15/Jeepney_TV_Logo_2015.svg/1280px-Jeepney_TV_Logo_2015.svg.png" group-title="",Jeepney TV
