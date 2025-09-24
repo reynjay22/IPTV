@@ -12,7 +12,7 @@ https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_ptv4_sd/default/index.m
 #KODIPROP:inputstream.adaptive.license_key=83e813ccd4ca4837afd611037af02f63:a97c515dbcb5dcbc432bbd09d15afd41
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/tvup_prd/default/index.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://bilyonaryo.com/wp-content/uploads/2024/08/viber_image_2024-08-26_17-40-21-332-1024x575.jpg" group-title="",Bilyonaryo
+#EXTINF:-1 tvg-id="" tvg-logo="https://tnt.abante.com.ph/wp-content/uploads/2025/08/bilyo.jpg" group-title="",Bilyonaryo
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=227ffaf09bec4a889e0e0988704d52a2:b2d0dce5c486891997c1c92ddaca2cd2
