@@ -198,13 +198,13 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_moonbug_kids_sd/default
 #KODIPROP:inputstream.adaptive.license_key=bab5c11178b646749fbae87962bf5113:0ac679aad3b9d619ac39ad634ec76bc8
 https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/dr_nickjr.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://logomak.com/blog/wp-content/uploads/2023/10/DreamWorks-logo-main-min.png" group-title="",DREAMWORKS HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://blob.panzoid.com/creation-thumbnails/558284.jpg" group-title="",DREAMWORKS HD
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=4ab9645a2a0a47edbd65e8479c2b9669:8cb209f1828431ce9b50b593d1f44079
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_dreamworks_hd1/default/index.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://logomak.com/blog/wp-content/uploads/2023/10/DreamWorks-logo-main-min.png" group-title="",Dreamworks Tagalog
+#EXTINF:-1 tvg-id="" tvg-logo="https://blob.panzoid.com/creation-thumbnails/558284.jpg" group-title="",Dreamworks Tagalog
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=564b3b1c781043c19242c66e348699c5:d3ad27d7fe1f14fb1a2cd5688549fbab
